@@ -1,0 +1,17 @@
+{
+  "name": "asodk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start-dev": "npx nodemon main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "ts-node": "^10.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
